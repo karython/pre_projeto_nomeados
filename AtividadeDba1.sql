@@ -1,6 +1,8 @@
 create database premiacao;
 use premiacao;
 
+
+
 CREATE TABLE nomeado (
     IDnomeado int PRIMARY KEY auto_increment,
     artista varchar(120),
